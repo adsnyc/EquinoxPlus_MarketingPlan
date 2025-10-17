@@ -17,4 +17,4 @@ Developed an independent marketing plan to position **Equinox+** as the leading 
 Marketing Strategy • Consumer Insights • Competitive Analysis • KPI Design • Strategic Branding  
 
 **Deliverables:**  
-`EquinoxPlus_MarketingPlan.docx` | `EquinoxPlus_MarketingPlan.pdf` | `Exhibits/`
+`EquinoxPlus_MarketingPlan.docx` | `Exhibits/`
